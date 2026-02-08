@@ -10,3 +10,8 @@
 
 ## Output
 - consolidated_data.csv
+
+requirements
+pandas
+numpy
+requests
