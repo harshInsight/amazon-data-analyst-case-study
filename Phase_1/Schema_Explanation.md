@@ -1,3 +1,10 @@
+## Logical Schema Diagram
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/97ee2d75-559f-437d-a065-04df7462c51b" width="800"/>
+</p>
+
+
 # Logical Schema Explanation
 
 ## Design Principles
